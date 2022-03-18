@@ -1,2 +1,2 @@
 # thunderdome 
-This is where i keep all my projects safe :)
+This is where i keep all my personal solo projects safe :)
